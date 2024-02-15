@@ -25,7 +25,7 @@ Este projeto é dedicado à análise de dados e implementação de modelos de ap
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/thaismaiarasousa/LearnMachine_projects.git
 
 ----------------------------------------------------------------
 Navegue até o diretório do projeto:
@@ -33,6 +33,7 @@ Navegue até o diretório do projeto:
 bash
 Copy code
 cd nome-do-repositorio
+
 (Opcional) Crie e ative um ambiente virtual:
 
 bash
@@ -40,6 +41,7 @@ Copy code
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 .\venv\Scripts\activate   # Windows
+
 Instale as dependências:
 
 bash
@@ -52,11 +54,13 @@ Realize a Análise Exploratória de Dados:
 bash
 Copy code
 python explore_data.py
+
 Treine o Modelo de Aprendizado de Máquina:
 
 bash
 Copy code
 python train_model.py
+
 Ajuste e treine modelos específicos conforme necessário para seu projeto.
 
 **Contribuição**
